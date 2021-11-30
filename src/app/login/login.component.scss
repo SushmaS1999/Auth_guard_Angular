@@ -1,0 +1,91 @@
+.text-right.forget-pass a {
+  font-size: 12px;
+  color: #d39e00;
+  text-decoration: none;
+}
+
+form {
+  // border: 3px solid #f1f1f1;
+}
+// .sign-up{
+//   color: #fff;
+// }
+// .sign-up a{
+//   color: #d39e00;
+//   font-weight: 600;
+//   text-decoration: none;
+// }
+
+input[type=password],
+input[type=text] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+
+img {
+  vertical-align: middle;
+  border-style: none;
+  text-align: center;
+  margin: -42px ​-246px -54px -377px;
+}
+
+.imgcontainer {
+  text-align: center;
+  margin: 29px -121px 17px -367px;
+}
+
+.container {
+  padding: 20px;
+}
+
+.form-container {
+  padding: 20px;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}
+
+.card {
+  box-shadow: 0 0 30px #f7f7f7;
+  width: 50%;
+  background: linear-gradient(to right, #241b36, #c31432);
+  // .card-body{
+  //   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  margin: 0 auto;
+  float: none;
+  margin-bottom: 10px;
+}
+
+.centre {
+  text-align: center;
+  margin: 0 auto;
+}
+
+.card-body {
+  // background: linear-gradient(to right, #240b36, #c31432);
+  -webkit-box-flex: 1;
+  -ms-flex: 1 1 auto;
+  flex: 1 1 auto;
+  padding: 1.25rem;
+}
+
+label {
+  // color: #fff;
+  font-weight: 700;
+}
+
+.text-right {
+  text-align: right;
+}
+
+.sign-up {
+  text-align: center;
+}
+
+.btn:not(:disabled):not(.disabled) {
+  cursor: pointer;
+  text-align: center;
+  margin: 0 auto;
+}
